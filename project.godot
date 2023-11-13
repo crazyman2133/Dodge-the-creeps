@@ -10,10 +10,9 @@ config_version=5
 
 [application]
 
-config/name="Dodge The Creeps 2d Assets"
-run/main_scene="res://player.tscn"
+config/name="Dodge the Creeps"
+run/main_scene="res://main.tscn"
 config/features=PackedStringArray("4.1", "GL Compatibility")
-config/icon="res://art/icon.svg"
 
 [display]
 
